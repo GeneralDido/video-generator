@@ -1,0 +1,10 @@
+__pycache__/
+background_music/
+final_videos/
+images_input/
+images_text_output/
+trash/
+videos_output/
+voiceover_input/
+.env
+.DS_Store
